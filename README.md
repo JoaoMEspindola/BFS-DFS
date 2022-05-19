@@ -2,7 +2,7 @@
 
 ## Exercício
 
-<p align="justify">Atividade avaliativa sobre o caminhamento em labirinto. Nesta atividade, cada dupla de alunos deve entregar um trabalho contemplando BFS e DFS. A dupla deste algoritmo é composta por <a href="https://github.com/ppinheirosiqueira">Pedro Pinheiro</a></p> e <a href="https://github.com/JoaoMEspindola">João Pedro Espíndola</a>
+<p align="justify">Atividade avaliativa sobre o caminhamento em labirinto. Nesta atividade, cada dupla de alunos deve entregar um trabalho contemplando BFS e DFS. A dupla deste algoritmo é composta por <a href="https://github.com/ppinheirosiqueira">Pedro Pinheiro</a> e <a href="https://github.com/JoaoMEspindola">João Pedro Espíndola</a>.</p>
 
 <p align="justify">O labirinto em si é uma matriz quadrada de tamanho N e o objetivo é partir da coordenada inicial (0,0) até a coordenada final (N-1,N-1). Esta matriz possuirá barreiras, que são meramente coordenadas que não podem ser visitadas.</p>
 
@@ -59,7 +59,7 @@
 
 <p align="justify">Segue abaixo uma demonstração de como nosso algoritmo de BFS se comporta dada a entrada colocada anteriormente, os vértices em preto são os obstáculos, os em lilás são as posições atuais, os verdes as futuras posições e os vermelhos o caminho percorrido:</p>
 
-<p align="center"><IMG SRC="images/BFS.gif" style="width:25%;"></p>
+<p align="center"><IMG SRC="images/BFS.gif" style="width:321px;"></p>
 
 ### <strong> DFS </strong>
 <p align="justify">Para a programação do DFS, houveram algumas mudanças a partir do algoritmo BFS. Agora, a função apresenta a seguinte estrutura:</p>
