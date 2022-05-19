@@ -2,7 +2,7 @@
 
 ## Exercício
 
-<p align="justify">Atividade avaliativa sobre o caminhamento em labirinto. Nesta atividade, cada dupla de alunos deve entregar um trabalho contemplando BFS e DFS.</p>
+<p align="justify">Atividade avaliativa sobre o caminhamento em labirinto. Nesta atividade, cada dupla de alunos deve entregar um trabalho contemplando BFS e DFS. A dupla deste algoritmo é composta por <a href="https://github.com/ppinheirosiqueira">Pedro Pinheiro</a></p> e <a href="https://github.com/JoaoMEspindola">João Pedro Espíndola</a>
 
 <p align="justify">O labirinto em si é uma matriz quadrada de tamanho N e o objetivo é partir da coordenada inicial (0,0) até a coordenada final (N-1,N-1). Esta matriz possuirá barreiras, que são meramente coordenadas que não podem ser visitadas.</p>
 
