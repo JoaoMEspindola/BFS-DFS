@@ -59,7 +59,7 @@
 
 <p align="justify">Segue abaixo uma demonstração de como nosso algoritmo de BFS se comporta dada a entrada colocada anteriormente, os vértices em preto são os obstáculos, os em lilás são as posições atuais, os verdes as futuras posições e os vermelhos o caminho percorrido:</p>
 
-<p align="center"><img src="images/BFS.gif" width="40%"></p>
+<p align="center"><img src="https://i.imgur.com/ZPgIed8.gif" width="40%"></p>
 
 ### <strong> DFS </strong>
 <p align="justify">Para a programação do DFS, houveram algumas mudanças a partir do algoritmo BFS. Agora, a função apresenta a seguinte estrutura:</p>
