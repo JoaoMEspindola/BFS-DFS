@@ -72,8 +72,7 @@
 
 <p align="justify">Segue abaixo uma demonstração de como nosso algoritmo de DFS se comporta dada a entrada colocada anteriormente, os vértices em preto são os obstáculos, os em lilás são as posições visitadas, os vermelhos as posições que foram transformadas em obstáculo e o verde a posição final:</p>
 
-<IMG SRC="images/DFS.gif" style="width:25%;">
-  <img src="https://media.giphy.com/media/joaopedrao/giphy.gif" alt="funny GIF" width="100%">
+<p align="center"><IMG SRC="images/DFS.gif"  width="10%"></p>
 
 ## Saída
 
