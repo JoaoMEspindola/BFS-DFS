@@ -39,7 +39,7 @@
 
 <p align="justify">Assim, a matriz de entrada em nosso teste é:</p>
 
-<p align="center"><img src="images/Matriz%20com%20Barreiras.jpeg" style="width:25%;"></p>
+<p align="center"><img src="images/Matriz%20com%20Barreiras.jpeg" style="width:40%;"></p>
 
 ## Programação
 <p align="justify">Para a construção dos nossos algoritmos, utilizou-se como base os códigos disponibilizados pelo professor, de <a href="https://github.com/mpiress/dynamic_queue">Fila dinâmica</a> para o BFS, e, <a href="https://github.com/mpiress/dynamic_stack">Pilha dinâmica</a> para o DFS.</p>
@@ -59,7 +59,7 @@
 
 <p align="justify">Segue abaixo uma demonstração de como nosso algoritmo de BFS se comporta dada a entrada colocada anteriormente, os vértices em preto são os obstáculos, os em lilás são as posições atuais, os verdes as futuras posições e os vermelhos o caminho percorrido:</p>
 
-<p align="center"><IMG SRC="images/BFS.gif" style="width:321px;"></p>
+<p align="center"><img src="images/BFS.gif" style="width:25%;"></p>
 
 ### <strong> DFS </strong>
 <p align="justify">Para a programação do DFS, houveram algumas mudanças a partir do algoritmo BFS. Agora, a função apresenta a seguinte estrutura:</p>
@@ -72,7 +72,8 @@
 
 <p align="justify">Segue abaixo uma demonstração de como nosso algoritmo de DFS se comporta dada a entrada colocada anteriormente, os vértices em preto são os obstáculos, os em lilás são as posições visitadas, os vermelhos as posições que foram transformadas em obstáculo e o verde a posição final:</p>
 
-<p align="center"><IMG SRC="images/DFS.gif" style="width:25%;"></p>
+<IMG SRC="images/DFS.gif" style="width:25%;">
+  <img src="https://media.giphy.com/media/joaopedrao/giphy.gif" alt="funny GIF" width="100%">
 
 ## Saída
 
@@ -86,7 +87,7 @@
 
 <p align="justify">Com a entrada exemplificada, a saída será possível em ambos os casos, sendo neste caso específico o DFS muito mais eficiente do que o BFS, como é possível ver pela saída final:</p>
 
-<p align="center"><img src="https://github.com/ppinheirosiqueira/BFS-DFS/blob/main/images/Saida.png" style="width:50%;"></p>
+<p align="center"><img src="images/Saida.png" style="width:50%;"></p>
 
 # Compilação e Execução
 
@@ -99,4 +100,4 @@
 |  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
 |  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
 
-<p align="justify">É recomendado fazer um `make clean` antes de um `make`.</p>
+<p align="justify">É recomendado fazer um <code>make clean</code> antes de um <code>make</code>.</p>
